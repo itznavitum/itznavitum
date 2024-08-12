@@ -3,7 +3,7 @@
 My name is Navit, and I'm a Computer Science and Economics student at the University of Michigan interested in applying Machine Learning & Data Analysis to Financial Markets.
 
 - 🔭 I’m currently working on a stock screening & portfolio management application that provides value-added screeners.
-- 🌱 I’m currently learning Data Labelling and ML Modelling for financial markets
+- 🌱 I’m currently learning Data Labelling, ML Modelling & Algorithmic Trading.
 - 👯 I’m looking to collaborate on building a trade algorithm testing software with a dashboard for trade insights.
 
 <!--
